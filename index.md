@@ -1,4 +1,4 @@
-## Välkommen till min prao
+# Välkommen till min prao
 
 Jag ska visa er vad jag har gjort under dessa två arbetsveckor.
 
@@ -8,14 +8,16 @@ Jag ska visa er vad jag har gjort under dessa två arbetsveckor.
 
 <video width="400px" controls="controls">
 <source src="winnerheads instagram.mp4" video="web/mp4">
-
 </video>
 
+<h5> Det var rätt kul och simpelt </h5>
+ 
 
-### Bilder
+# Bilder
+
+<h4> Jag skapade rätt många bilder både loggor och banderoller till Värmdö hockey <br> Här är några av de bilderna jag skapade </h4>
 
 
-
-### IT
+# IT
 
 
