@@ -17,7 +17,7 @@ Jag ska visa er vad jag har gjort under dessa två arbetsveckor.
 
 <h4> Jag skapade rätt många bilder både loggor och banderoller till Värmdö hockey. <br> Här är några av de bilderna jag skapade </h4>
 
-<img src="Wilmers logo.pdf"> <br>
+<img src="Wilmers logo.pdf" height="350" width="350"> <br>
 
 ## IT
 
