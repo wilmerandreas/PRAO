@@ -2,7 +2,7 @@
 
 Jag ska visa er vad jag har gjort under dessa två arbetsveckor.
 
-# Filmer
+## Filmer
 
 <h5> Första upgiften jag fick göra va att sätta winnerheads loggan över en film </h5>
 
@@ -13,11 +13,11 @@ Jag ska visa er vad jag har gjort under dessa två arbetsveckor.
 <h5> Det var rätt kul och simpelt </h5>
  
 
-# Bilder
+## Bilder
 
-<h4> Jag skapade rätt många bilder både loggor och banderoller till Värmdö hockey <br> Här är några av de bilderna jag skapade </h4>
+<h4> Jag skapade rätt många bilder både loggor och banderoller till Värmdö hockey. <br> Här är några av de bilderna jag skapade </h4>
+<img src="Wilmers logo.pdf" <br>
 
-
-# IT
+## IT
 
 
